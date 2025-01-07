@@ -33,7 +33,7 @@ This is a collection of helpful frontend-related interview questions that can he
 - Higher Order Function in JS
 - Why is JavaScript considered a first-class citizen?
 - What are Callbacks?
-- What are Promises
+- What are Promises?
 - Is JavaScript synchronous or asynchronous? How does JavaScript handle asynchronous operations?
 - Explain the concept of destructuring?
 - Map vs forEach
