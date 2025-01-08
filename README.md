@@ -37,6 +37,9 @@ This is a collection of helpful frontend-related interview questions that can he
 - Is JavaScript synchronous or asynchronous? How does JavaScript handle asynchronous operations?
 - Explain the concept of destructuring?
 - Map vs forEach
+- Difference b/w a shallow copy and a deep copy? How do you create each type in JavaScript?
+- Diference b/w while loop and do while loop.
+- Difference b/w for loop and map.
 
 ## React.js Questions
 
@@ -47,6 +50,7 @@ This is a collection of helpful frontend-related interview questions that can he
 - Difference b/w controlled components and uncontrolled components?
 - Difference b/w class components and function components?
 - What is higher order component in react?
+- What is redux? How does it work?
 
 ## Next.js Questions
 
