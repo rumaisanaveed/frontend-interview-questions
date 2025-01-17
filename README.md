@@ -40,6 +40,7 @@ This is a collection of helpful frontend-related interview questions that can he
 - Difference b/w a shallow copy and a deep copy? How do you create each type in JavaScript?
 - Diference b/w while loop and do while loop.
 - Difference b/w for loop and map.
+- Difference b/w slice() and splice() method.
 
 ## React.js Questions
 
@@ -51,6 +52,7 @@ This is a collection of helpful frontend-related interview questions that can he
 - Difference b/w class components and function components?
 - What is higher order component in react?
 - What is redux? How does it work?
+- Is react a library or framework?
 
 ## Next.js Questions
 
