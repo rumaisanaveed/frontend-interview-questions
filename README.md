@@ -50,6 +50,7 @@ This is a collection of helpful frontend-related interview questions that can he
 - Explain this keyword in JavaScript.
 - Difference between arrow functions and traditional functions.
 - What's the difference between axios and fetch.
+- Difference b/w slice() and splice() method.
 
 ## React.js Questions
 
@@ -64,6 +65,7 @@ This is a collection of helpful frontend-related interview questions that can he
 - What is higher order component in react?
 - How would you pass data from a child component to a parent component?
 - What is redux? How does it work?
+- Is react a library or framework?
 
 ## Next.js Questions
 
