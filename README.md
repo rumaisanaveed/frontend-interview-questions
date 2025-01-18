@@ -27,6 +27,8 @@ This is a collection of helpful frontend-related interview questions that can he
 ## JavaScript Questions
 
 - Explain the difference between `var`, `let`, and `const`.
+- How would you check the type of non primitive data types?
+- Why we can't use typeof operator to check the type of non-primtive types in JavaScript.
 - What is closure in JavaScript and how do you use it?
 - How does the event loop work in JavaScript?
 - How many types of scopes are in JS?
@@ -40,16 +42,27 @@ This is a collection of helpful frontend-related interview questions that can he
 - Difference b/w a shallow copy and a deep copy? How do you create each type in JavaScript?
 - Diference b/w while loop and do while loop.
 - Difference b/w for loop and map.
+- What is debouncing?
+- Difference between slice and splice array methods.
+- Explain the concept of callback hell. And how can we handle async operations without using callbacks.
+- In how many ways you can create objects in JavaScript.
+- Explain map and filter method. And can we achieve the filter functionality using map ?
+- Explain this keyword in JavaScript.
+- Difference between arrow functions and traditional functions.
+- What's the difference between axios and fetch.
 
 ## React.js Questions
 
 - Explain the lifecycle methods in React.
+- How would you achieve the functionality of component unmounting in useEffect?
+- Why can't we use JavaScript variables instead of using state in React.
 - What are hooks?
 - Difference between useEffect and useLayoutEffect?
 - What is lifting in react?
 - Difference b/w controlled components and uncontrolled components?
 - Difference b/w class components and function components?
 - What is higher order component in react?
+- How would you pass data from a child component to a parent component?
 - What is redux? How does it work?
 
 ## Next.js Questions
