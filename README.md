@@ -66,6 +66,7 @@ This is a collection of helpful frontend-related interview questions that can he
 - How would you pass data from a child component to a parent component?
 - What is redux? How does it work?
 - Is react a library or framework?
+- How is React.js different from React Native?
 
 ## Next.js Questions
 
@@ -73,6 +74,16 @@ This is a collection of helpful frontend-related interview questions that can he
 - Difference between getStaticProps and getServerSideProps?
 - How do you fetch data in a Next.js page?
 - Difference between static generation and server-side rendering?
+
+## Problem Solving Related Questions
+
+- Write the code which will print the difference of the sums of diagonals of a matrix. 
+- Write code for fibonacci sequence (use different approaches). 
+
+## Puzzles like Questions 
+
+- You have a birthday cake and have to cut it into 8 equal pieces by making 3 cuts only. How do you do it?
+- Having an infinite supply of water and two containers, one for 3 liters and one for 5 liters, how would you measure 4 liters?
 
 ## Resources
 
